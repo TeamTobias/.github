@@ -1,6 +1,7 @@
 
 ![그림3](https://user-images.githubusercontent.com/46955032/203273339-2c6f6e93-32a3-46d9-8908-89cb882d9f08.png)
 
+![그림1](https://user-images.githubusercontent.com/46955032/203825665-c8d665f9-bd32-45df-aecf-8c5e950dea5a.png)
 
 <!--
 
