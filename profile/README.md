@@ -9,7 +9,7 @@ TeamTobias의 개발자와 기타 이해당사자들이 반드시 알아야 하�
 
 ### <a href="https://docs.google.com/document/d/1z0dmOXMOI8bYtGv3EmK0s5OMABML1IjpU5YiMaBqoO8/edit?usp=sharing">📑 딜리버리 산출물</a>
 
-### <a href="https://docs.google.com/spreadsheets/d/1q6MVIjNOgXmOh6OkNUHk78AwVqbJ46vdswTZDlWD_GE/edit?usp=sharing">📑 API Document</a>
+### <a href="https://docs.google.com/spreadsheets/d/1q6MVIjNOgXmOh6OkNUHk78AwVqbJ46vdswTZDlWD_GE/edit?usp=sharing">📑 TeamTobias API Document</a>
 
 ### <a href="https://www.figma.com/file/XTqDeITWqvwl121WOw3aVK/TeamTobias?type=design&node-id=0%3A1&t=RGLYnd4YQ7WQazFJ-1">📑 UI Design</a>
 
