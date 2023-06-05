@@ -1,9 +1,9 @@
 # Document Map
 TeamTobias의 개발자와 기타 이해당사자들이 반드시 알아야 하거나 참고할 수 있는 도큐먼트 목록입니다.
 
-### <a href="https://lucid.app/lucidspark/9c0f0429-931e-4214-ad14-50d2d34c8dc7/edit?viewport_loc=-62974%2C-15050%2C31758%2C37647%2C0_0&invitationId=inv_6fb1fa47-096d-4e51-867d-a6a0688f89a7">📑 Tobias Event Storm1</a>
+### <a href="https://lucid.app/lucidspark/9c0f0429-931e-4214-ad14-50d2d34c8dc7/edit?viewport_loc=-62974%2C-15050%2C31758%2C37647%2C0_0&invitationId=inv_6fb1fa47-096d-4e51-867d-a6a0688f89a7">📑 TeamTobias Event Storm1</a>
 
-### <a href="https://lucid.app/lucidspark/9c0f0429-931e-4214-ad14-50d2d34c8dc7/edit?viewport_loc=-62974%2C-15050%2C31758%2C37647%2C0_0&invitationId=inv_6fb1fa47-096d-4e51-867d-a6a0688f89a7">📑 Tobias Event Storm2</a>
+### <a href="https://lucid.app/lucidspark/9c0f0429-931e-4214-ad14-50d2d34c8dc7/edit?viewport_loc=-62974%2C-15050%2C31758%2C37647%2C0_0&invitationId=inv_6fb1fa47-096d-4e51-867d-a6a0688f89a7">📑 TeamTobias Event Storm2</a>
 
 ### <a href="https://docs.google.com/document/d/1LjLXu1h9YedN6k5wVyDohNSnhSKWZdMrXFdzHOmjqP4/edit?usp=sharing">📑 TeamTobias Project Plan</a>
 
