@@ -1,5 +1,4 @@
 # Document Map
-TeamTobias의 개발자와 기타 이해당사자들이 반드시 알아야 하거나 참고할 수 있는 도큐먼트 목록입니다.
 
 ### <a href="https://lucid.app/lucidspark/b1a54dd4-6af1-4289-b8f4-6f5e424e9eca/edit?viewport_loc=-64074%2C-23453%2C180544%2C94691%2C0_0&invitationId=inv_0021ef95-4084-443f-ab26-8fe867aaba2b">📑 TeamTobias Event Storm1</a>
 
@@ -27,13 +26,3 @@ TeamTobias의 개발자와 기타 이해당사자들이 반드시 알아야 하�
 
 
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
