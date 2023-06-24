@@ -24,9 +24,12 @@
 ![웹프2 - 보고서 - Page 1 (36)](https://user-images.githubusercontent.com/46955032/210129191-a80a925d-73a1-4b67-b2b0-b159e4ca1e89.png)
 
 
-
-
-
-
-
 ![웹프2 - 보고서 - Page 1 (32)](https://github.com/TeamTobias/.github/assets/46955032/cc21277a-10cc-4fa1-a75c-b3bd89b2e8e9)
+
+
+![웹프2-EventStorming - Page 1 (11)](https://github.com/TeamTobias/.github/assets/46955032/c7be6a40-5bef-48fb-9474-3d735fec6488)
+
+![웹프2-EventStorming - Page 1 (12)](https://github.com/TeamTobias/.github/assets/46955032/228d08a4-790e-4abd-aebc-5a04579d0472)
+
+
+
